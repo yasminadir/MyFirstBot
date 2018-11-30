@@ -1,0 +1,11 @@
+C:\Users\Nachum\Documents\MyFirstBot\bin\Debug\netcoreapp2.0\MyFirstBot.deps.json
+C:\Users\Nachum\Documents\MyFirstBot\bin\Debug\netcoreapp2.0\MyFirstBot.runtimeconfig.json
+C:\Users\Nachum\Documents\MyFirstBot\bin\Debug\netcoreapp2.0\MyFirstBot.runtimeconfig.dev.json
+C:\Users\Nachum\Documents\MyFirstBot\bin\Debug\netcoreapp2.0\MyFirstBot.dll
+C:\Users\Nachum\Documents\MyFirstBot\bin\Debug\netcoreapp2.0\MyFirstBot.pdb
+C:\Users\Nachum\Documents\MyFirstBot\obj\Debug\netcoreapp2.0\MyFirstBot.csprojAssemblyReference.cache
+C:\Users\Nachum\Documents\MyFirstBot\obj\Debug\netcoreapp2.0\MyFirstBot.csproj.CoreCompileInputs.cache
+C:\Users\Nachum\Documents\MyFirstBot\obj\Debug\netcoreapp2.0\MyFirstBot.AssemblyInfoInputs.cache
+C:\Users\Nachum\Documents\MyFirstBot\obj\Debug\netcoreapp2.0\MyFirstBot.AssemblyInfo.cs
+C:\Users\Nachum\Documents\MyFirstBot\obj\Debug\netcoreapp2.0\MyFirstBot.dll
+C:\Users\Nachum\Documents\MyFirstBot\obj\Debug\netcoreapp2.0\MyFirstBot.pdb
